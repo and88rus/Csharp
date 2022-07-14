@@ -1,4 +1,4 @@
-﻿void DiffBetweenMaxAndMinElementsOfMassive(int a, int x1, int x2)
+﻿void DiffBetweenMaxAndMinElementsOfArray(int a, int x1, int x2)
 {
 Random rand = new Random();
 double[] m = new double[a];

@@ -1,14 +1,12 @@
 ﻿void ab(int a,int b) 
 { 
   int c=1;
-  int d=a;
  for (int i=1; i<b; i++)
  {
-  c=d*a;
-  d=c; 
- };
+  c*=a;
+ }
  Console.WriteLine($"{a}^{b}={d}");
-};
+}
 Console.WriteLine(" ");
 Console.WriteLine("Введите число a:");
 Console.WriteLine(" ");

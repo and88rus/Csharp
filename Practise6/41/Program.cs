@@ -1,4 +1,4 @@
-﻿void morethan0(int a) 
+﻿void MoreThanO(int a) 
 {
  int [] m = new int [a];
  Console.WriteLine("Введите элементы:");
@@ -23,5 +23,5 @@ Console.WriteLine("Введите число M:");
 Console.WriteLine(" ");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.Clear();
-morethan0(m);
+MoreThanO(m);
 Console.WriteLine(" ");

@@ -13,3 +13,18 @@ C:\prgrmmng\C#\A^B\obj\Debug\net7.0\refint\A^B.dll
 C:\prgrmmng\C#\A^B\obj\Debug\net7.0\A^B.pdb
 C:\prgrmmng\C#\A^B\obj\Debug\net7.0\A^B.genruntimeconfig.cache
 C:\prgrmmng\C#\A^B\obj\Debug\net7.0\ref\A^B.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\bin\Debug\net7.0\A^B.exe
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\bin\Debug\net7.0\A^B.deps.json
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\bin\Debug\net7.0\A^B.runtimeconfig.json
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\bin\Debug\net7.0\A^B.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\bin\Debug\net7.0\A^B.pdb
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\obj\Debug\net7.0\A^B.csproj.AssemblyReference.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\obj\Debug\net7.0\A^B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\obj\Debug\net7.0\A^B.AssemblyInfoInputs.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\obj\Debug\net7.0\A^B.AssemblyInfo.cs
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\obj\Debug\net7.0\A^B.csproj.CoreCompileInputs.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\obj\Debug\net7.0\A^B.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\obj\Debug\net7.0\refint\A^B.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\obj\Debug\net7.0\A^B.pdb
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\obj\Debug\net7.0\A^B.genruntimeconfig.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Practise4\25\obj\Debug\net7.0\ref\A^B.dll

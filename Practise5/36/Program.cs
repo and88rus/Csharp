@@ -1,4 +1,4 @@
-﻿void nechm(int a, int x1, int x2)
+﻿void SumOfElemntsStandingOnOddPositions(int a, int x1, int x2)
 {
 Random rand = new Random();
 int[] m = new int[a];
@@ -40,5 +40,5 @@ Console.WriteLine(" ");
 Console.WriteLine("Введите число x2:");
 Console.WriteLine(" ");
 int y2 = Convert.ToInt32(Console.ReadLine());
-nechm(n,y1,y2);
+SumOfElemntsStandingOnOddPositions(n,y1,y2);
 Console.WriteLine(" ");

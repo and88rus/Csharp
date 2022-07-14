@@ -1,6 +1,6 @@
 ﻿// Задание можно переформулировать следующим образом: решите систему линенйых уравнений { (1) y=k1*x+b1 (2) y=k2*x+b2, которую 
 // в свою очередь можно решить по формулам Крамера.
-void kramer(double b1, double k1, double b2, double k2)
+void Kramer(double b1, double k1, double b2, double k2)
 {
  if (k1==k2)
  {
@@ -17,18 +17,18 @@ void kramer(double b1, double k1, double b2, double k2)
 Console.WriteLine(" ");
 Console.WriteLine("Введите значение параметра b1:");
 Console.WriteLine(" ");
-double a = Convert.ToDouble(Console.ReadLine());
+double a1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine(" ");
 Console.WriteLine("Введите значение параметра k1:");
 Console.WriteLine(" ");
-double b = Convert.ToDouble(Console.ReadLine());
+double a2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine(" ");
 Console.WriteLine("Введите значение параметра b2:");
 Console.WriteLine(" ");
-double c = Convert.ToDouble(Console.ReadLine());
+double a3 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine(" ");
 Console.WriteLine("Введите значение параметра k2:");
 Console.WriteLine(" ");
-double d = Convert.ToDouble(Console.ReadLine());
+double a4 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine(" ");
-kramer(a,b,c,d);
+Kramer(a1,a2,a3,a4);

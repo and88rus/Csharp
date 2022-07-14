@@ -1,4 +1,4 @@
-﻿void massive(int a) 
+﻿void Massive(int a) 
 {
  int [] m = new int [a];
  Console.WriteLine("Введите элементы:");
@@ -27,5 +27,5 @@ if ((n>8)||(n<0))
 Console.WriteLine(" Ошибка! Введенное число должно быть в диапозоне (0;8].");
 goto label;
 };
-massive(n);
+Massive(n);
 Console.WriteLine(" ");

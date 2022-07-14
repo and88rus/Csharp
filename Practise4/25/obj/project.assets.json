@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\prgrmmng\\C#\\A^B\\A^B.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Practise4\\25\\A^B.csproj",
       "projectName": "A^B",
-      "projectPath": "C:\\prgrmmng\\C#\\A^B\\A^B.csproj",
+      "projectPath": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Practise4\\25\\A^B.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\prgrmmng\\C#\\A^B\\obj\\",
+      "outputPath": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Practise4\\25\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

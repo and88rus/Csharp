@@ -1,4 +1,4 @@
-﻿void sumofsymb(int a) 
+﻿void SumOfSymb(int a) 
 {
   int c=a;
   int size=1;
@@ -28,5 +28,5 @@ Console.WriteLine("Введите число N:");
 Console.WriteLine(" ");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine (" ");
-sumofsymb(n);
+SumOfSymb(n);
 Console.WriteLine(" ");

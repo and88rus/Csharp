@@ -1,4 +1,4 @@
-﻿void Qm(int a)
+﻿void QuantityOfEvenNumbersInMassive(int a)
 {
 Random rand = new Random();
 int[] m = new int[a];
@@ -31,5 +31,5 @@ Console.WriteLine(" ");
 Console.WriteLine("Введите размер массива");
 Console.WriteLine(" ");
 int n = Convert.ToInt32(Console.ReadLine());
-Qm(n);
+QuantityOfEvenNumbersInMassive(n);
 Console.WriteLine(" ");

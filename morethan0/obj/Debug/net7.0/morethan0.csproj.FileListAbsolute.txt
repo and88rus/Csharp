@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\morethan0\bin\Debug\net7.0\morethan0.exe
+C:\prgrmmng\C#\morethan0\bin\Debug\net7.0\morethan0.deps.json
+C:\prgrmmng\C#\morethan0\bin\Debug\net7.0\morethan0.runtimeconfig.json
+C:\prgrmmng\C#\morethan0\bin\Debug\net7.0\morethan0.dll
+C:\prgrmmng\C#\morethan0\bin\Debug\net7.0\morethan0.pdb
+C:\prgrmmng\C#\morethan0\obj\Debug\net7.0\morethan0.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\morethan0\obj\Debug\net7.0\morethan0.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\morethan0\obj\Debug\net7.0\morethan0.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\morethan0\obj\Debug\net7.0\morethan0.AssemblyInfo.cs
+C:\prgrmmng\C#\morethan0\obj\Debug\net7.0\morethan0.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\morethan0\obj\Debug\net7.0\morethan0.dll
+C:\prgrmmng\C#\morethan0\obj\Debug\net7.0\refint\morethan0.dll
+C:\prgrmmng\C#\morethan0\obj\Debug\net7.0\morethan0.pdb
+C:\prgrmmng\C#\morethan0\obj\Debug\net7.0\morethan0.genruntimeconfig.cache
+C:\prgrmmng\C#\morethan0\obj\Debug\net7.0\ref\morethan0.dll

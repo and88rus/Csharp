@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\allevennumbers.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\allevennumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\allevennumbers.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\allevennumbers.AssemblyInfo.cs
+C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\allevennumbers.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\allevennumbers\bin\Debug\net7.0\allevennumbers.exe
+C:\prgrmmng\C#\allevennumbers\bin\Debug\net7.0\allevennumbers.deps.json
+C:\prgrmmng\C#\allevennumbers\bin\Debug\net7.0\allevennumbers.runtimeconfig.json
+C:\prgrmmng\C#\allevennumbers\bin\Debug\net7.0\allevennumbers.dll
+C:\prgrmmng\C#\allevennumbers\bin\Debug\net7.0\allevennumbers.pdb
+C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\allevennumbers.dll
+C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\refint\allevennumbers.dll
+C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\allevennumbers.pdb
+C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\allevennumbers.genruntimeconfig.cache
+C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\ref\allevennumbers.dll

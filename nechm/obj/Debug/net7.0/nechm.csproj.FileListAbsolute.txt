@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\nechm\obj\Debug\net7.0\nechm.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\nechm\obj\Debug\net7.0\nechm.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\nechm\obj\Debug\net7.0\nechm.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\nechm\obj\Debug\net7.0\nechm.AssemblyInfo.cs
+C:\prgrmmng\C#\nechm\obj\Debug\net7.0\nechm.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\nechm\bin\Debug\net7.0\nechm.exe
+C:\prgrmmng\C#\nechm\bin\Debug\net7.0\nechm.deps.json
+C:\prgrmmng\C#\nechm\bin\Debug\net7.0\nechm.runtimeconfig.json
+C:\prgrmmng\C#\nechm\bin\Debug\net7.0\nechm.dll
+C:\prgrmmng\C#\nechm\bin\Debug\net7.0\nechm.pdb
+C:\prgrmmng\C#\nechm\obj\Debug\net7.0\nechm.dll
+C:\prgrmmng\C#\nechm\obj\Debug\net7.0\refint\nechm.dll
+C:\prgrmmng\C#\nechm\obj\Debug\net7.0\nechm.pdb
+C:\prgrmmng\C#\nechm\obj\Debug\net7.0\nechm.genruntimeconfig.cache
+C:\prgrmmng\C#\nechm\obj\Debug\net7.0\ref\nechm.dll

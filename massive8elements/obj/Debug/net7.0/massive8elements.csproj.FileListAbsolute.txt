@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\massive8elements\obj\Debug\net7.0\massive8elements.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\massive8elements\obj\Debug\net7.0\massive8elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\massive8elements\obj\Debug\net7.0\massive8elements.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\massive8elements\obj\Debug\net7.0\massive8elements.AssemblyInfo.cs
+C:\prgrmmng\C#\massive8elements\obj\Debug\net7.0\massive8elements.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\massive8elements\bin\Debug\net7.0\massive8elements.exe
+C:\prgrmmng\C#\massive8elements\bin\Debug\net7.0\massive8elements.deps.json
+C:\prgrmmng\C#\massive8elements\bin\Debug\net7.0\massive8elements.runtimeconfig.json
+C:\prgrmmng\C#\massive8elements\bin\Debug\net7.0\massive8elements.dll
+C:\prgrmmng\C#\massive8elements\bin\Debug\net7.0\massive8elements.pdb
+C:\prgrmmng\C#\massive8elements\obj\Debug\net7.0\massive8elements.dll
+C:\prgrmmng\C#\massive8elements\obj\Debug\net7.0\refint\massive8elements.dll
+C:\prgrmmng\C#\massive8elements\obj\Debug\net7.0\massive8elements.pdb
+C:\prgrmmng\C#\massive8elements\obj\Debug\net7.0\massive8elements.genruntimeconfig.cache
+C:\prgrmmng\C#\massive8elements\obj\Debug\net7.0\ref\massive8elements.dll

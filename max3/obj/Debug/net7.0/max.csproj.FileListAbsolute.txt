@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\max3\obj\Debug\net7.0\max.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\max3\obj\Debug\net7.0\max.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\max3\obj\Debug\net7.0\max.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\max3\obj\Debug\net7.0\max.AssemblyInfo.cs
+C:\prgrmmng\C#\max3\obj\Debug\net7.0\max.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\max3\bin\Debug\net7.0\max.exe
+C:\prgrmmng\C#\max3\bin\Debug\net7.0\max.deps.json
+C:\prgrmmng\C#\max3\bin\Debug\net7.0\max.runtimeconfig.json
+C:\prgrmmng\C#\max3\bin\Debug\net7.0\max.dll
+C:\prgrmmng\C#\max3\bin\Debug\net7.0\max.pdb
+C:\prgrmmng\C#\max3\obj\Debug\net7.0\max.dll
+C:\prgrmmng\C#\max3\obj\Debug\net7.0\refint\max.dll
+C:\prgrmmng\C#\max3\obj\Debug\net7.0\max.pdb
+C:\prgrmmng\C#\max3\obj\Debug\net7.0\max.genruntimeconfig.cache
+C:\prgrmmng\C#\max3\obj\Debug\net7.0\ref\max.dll

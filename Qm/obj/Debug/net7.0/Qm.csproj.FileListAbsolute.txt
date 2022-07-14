@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\Qm\bin\Debug\net7.0\Qm.exe
+C:\prgrmmng\C#\Qm\bin\Debug\net7.0\Qm.deps.json
+C:\prgrmmng\C#\Qm\bin\Debug\net7.0\Qm.runtimeconfig.json
+C:\prgrmmng\C#\Qm\bin\Debug\net7.0\Qm.dll
+C:\prgrmmng\C#\Qm\bin\Debug\net7.0\Qm.pdb
+C:\prgrmmng\C#\Qm\obj\Debug\net7.0\Qm.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\Qm\obj\Debug\net7.0\Qm.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\Qm\obj\Debug\net7.0\Qm.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\Qm\obj\Debug\net7.0\Qm.AssemblyInfo.cs
+C:\prgrmmng\C#\Qm\obj\Debug\net7.0\Qm.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\Qm\obj\Debug\net7.0\Qm.dll
+C:\prgrmmng\C#\Qm\obj\Debug\net7.0\refint\Qm.dll
+C:\prgrmmng\C#\Qm\obj\Debug\net7.0\Qm.pdb
+C:\prgrmmng\C#\Qm\obj\Debug\net7.0\Qm.genruntimeconfig.cache
+C:\prgrmmng\C#\Qm\obj\Debug\net7.0\ref\Qm.dll

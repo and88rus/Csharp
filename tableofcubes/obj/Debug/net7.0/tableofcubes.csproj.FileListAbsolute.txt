@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\tableofcubes\bin\Debug\net7.0\tableofcubes.exe
+C:\prgrmmng\C#\tableofcubes\bin\Debug\net7.0\tableofcubes.deps.json
+C:\prgrmmng\C#\tableofcubes\bin\Debug\net7.0\tableofcubes.runtimeconfig.json
+C:\prgrmmng\C#\tableofcubes\bin\Debug\net7.0\tableofcubes.dll
+C:\prgrmmng\C#\tableofcubes\bin\Debug\net7.0\tableofcubes.pdb
+C:\prgrmmng\C#\tableofcubes\obj\Debug\net7.0\tableofcubes.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\tableofcubes\obj\Debug\net7.0\tableofcubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\tableofcubes\obj\Debug\net7.0\tableofcubes.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\tableofcubes\obj\Debug\net7.0\tableofcubes.AssemblyInfo.cs
+C:\prgrmmng\C#\tableofcubes\obj\Debug\net7.0\tableofcubes.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\tableofcubes\obj\Debug\net7.0\tableofcubes.dll
+C:\prgrmmng\C#\tableofcubes\obj\Debug\net7.0\refint\tableofcubes.dll
+C:\prgrmmng\C#\tableofcubes\obj\Debug\net7.0\tableofcubes.pdb
+C:\prgrmmng\C#\tableofcubes\obj\Debug\net7.0\tableofcubes.genruntimeconfig.cache
+C:\prgrmmng\C#\tableofcubes\obj\Debug\net7.0\ref\tableofcubes.dll

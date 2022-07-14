@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\distancebeetween2\bin\Debug\net7.0\distancebeetween2.exe
+C:\prgrmmng\C#\distancebeetween2\bin\Debug\net7.0\distancebeetween2.deps.json
+C:\prgrmmng\C#\distancebeetween2\bin\Debug\net7.0\distancebeetween2.runtimeconfig.json
+C:\prgrmmng\C#\distancebeetween2\bin\Debug\net7.0\distancebeetween2.dll
+C:\prgrmmng\C#\distancebeetween2\bin\Debug\net7.0\distancebeetween2.pdb
+C:\prgrmmng\C#\distancebeetween2\obj\Debug\net7.0\distancebeetween2.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\distancebeetween2\obj\Debug\net7.0\distancebeetween2.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\distancebeetween2\obj\Debug\net7.0\distancebeetween2.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\distancebeetween2\obj\Debug\net7.0\distancebeetween2.AssemblyInfo.cs
+C:\prgrmmng\C#\distancebeetween2\obj\Debug\net7.0\distancebeetween2.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\distancebeetween2\obj\Debug\net7.0\distancebeetween2.dll
+C:\prgrmmng\C#\distancebeetween2\obj\Debug\net7.0\refint\distancebeetween2.dll
+C:\prgrmmng\C#\distancebeetween2\obj\Debug\net7.0\distancebeetween2.pdb
+C:\prgrmmng\C#\distancebeetween2\obj\Debug\net7.0\distancebeetween2.genruntimeconfig.cache
+C:\prgrmmng\C#\distancebeetween2\obj\Debug\net7.0\ref\distancebeetween2.dll

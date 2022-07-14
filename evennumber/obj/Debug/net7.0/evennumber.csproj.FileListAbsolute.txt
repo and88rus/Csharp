@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\evennumber\bin\Debug\net7.0\evennumber.exe
+C:\prgrmmng\C#\evennumber\bin\Debug\net7.0\evennumber.deps.json
+C:\prgrmmng\C#\evennumber\bin\Debug\net7.0\evennumber.runtimeconfig.json
+C:\prgrmmng\C#\evennumber\bin\Debug\net7.0\evennumber.dll
+C:\prgrmmng\C#\evennumber\bin\Debug\net7.0\evennumber.pdb
+C:\prgrmmng\C#\evennumber\obj\Debug\net7.0\evennumber.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\evennumber\obj\Debug\net7.0\evennumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\evennumber\obj\Debug\net7.0\evennumber.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\evennumber\obj\Debug\net7.0\evennumber.AssemblyInfo.cs
+C:\prgrmmng\C#\evennumber\obj\Debug\net7.0\evennumber.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\evennumber\obj\Debug\net7.0\evennumber.dll
+C:\prgrmmng\C#\evennumber\obj\Debug\net7.0\refint\evennumber.dll
+C:\prgrmmng\C#\evennumber\obj\Debug\net7.0\evennumber.pdb
+C:\prgrmmng\C#\evennumber\obj\Debug\net7.0\evennumber.genruntimeconfig.cache
+C:\prgrmmng\C#\evennumber\obj\Debug\net7.0\ref\evennumber.dll

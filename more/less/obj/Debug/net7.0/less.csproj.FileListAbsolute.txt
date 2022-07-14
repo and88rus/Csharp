@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\more\less\bin\Debug\net7.0\less.exe
+C:\prgrmmng\C#\more\less\bin\Debug\net7.0\less.deps.json
+C:\prgrmmng\C#\more\less\bin\Debug\net7.0\less.runtimeconfig.json
+C:\prgrmmng\C#\more\less\bin\Debug\net7.0\less.dll
+C:\prgrmmng\C#\more\less\bin\Debug\net7.0\less.pdb
+C:\prgrmmng\C#\more\less\obj\Debug\net7.0\less.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\more\less\obj\Debug\net7.0\less.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\more\less\obj\Debug\net7.0\less.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\more\less\obj\Debug\net7.0\less.AssemblyInfo.cs
+C:\prgrmmng\C#\more\less\obj\Debug\net7.0\less.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\more\less\obj\Debug\net7.0\less.dll
+C:\prgrmmng\C#\more\less\obj\Debug\net7.0\refint\less.dll
+C:\prgrmmng\C#\more\less\obj\Debug\net7.0\less.pdb
+C:\prgrmmng\C#\more\less\obj\Debug\net7.0\less.genruntimeconfig.cache
+C:\prgrmmng\C#\more\less\obj\Debug\net7.0\ref\less.dll

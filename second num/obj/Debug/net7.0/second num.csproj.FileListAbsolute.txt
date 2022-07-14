@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\second num\bin\Debug\net7.0\second num.exe
+C:\prgrmmng\C#\second num\bin\Debug\net7.0\second num.deps.json
+C:\prgrmmng\C#\second num\bin\Debug\net7.0\second num.runtimeconfig.json
+C:\prgrmmng\C#\second num\bin\Debug\net7.0\second num.dll
+C:\prgrmmng\C#\second num\bin\Debug\net7.0\second num.pdb
+C:\prgrmmng\C#\second num\obj\Debug\net7.0\second num.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\second num\obj\Debug\net7.0\second num.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\second num\obj\Debug\net7.0\second num.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\second num\obj\Debug\net7.0\second num.AssemblyInfo.cs
+C:\prgrmmng\C#\second num\obj\Debug\net7.0\second num.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\second num\obj\Debug\net7.0\second num.dll
+C:\prgrmmng\C#\second num\obj\Debug\net7.0\refint\second num.dll
+C:\prgrmmng\C#\second num\obj\Debug\net7.0\second num.pdb
+C:\prgrmmng\C#\second num\obj\Debug\net7.0\second num.genruntimeconfig.cache
+C:\prgrmmng\C#\second num\obj\Debug\net7.0\ref\second num.dll

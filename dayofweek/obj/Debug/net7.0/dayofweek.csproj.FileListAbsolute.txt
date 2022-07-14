@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\dayofweek\obj\Debug\net7.0\dayofweek.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\dayofweek\obj\Debug\net7.0\dayofweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\dayofweek\obj\Debug\net7.0\dayofweek.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\dayofweek\obj\Debug\net7.0\dayofweek.AssemblyInfo.cs
+C:\prgrmmng\C#\dayofweek\obj\Debug\net7.0\dayofweek.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\dayofweek\bin\Debug\net7.0\dayofweek.exe
+C:\prgrmmng\C#\dayofweek\bin\Debug\net7.0\dayofweek.deps.json
+C:\prgrmmng\C#\dayofweek\bin\Debug\net7.0\dayofweek.runtimeconfig.json
+C:\prgrmmng\C#\dayofweek\bin\Debug\net7.0\dayofweek.dll
+C:\prgrmmng\C#\dayofweek\bin\Debug\net7.0\dayofweek.pdb
+C:\prgrmmng\C#\dayofweek\obj\Debug\net7.0\dayofweek.dll
+C:\prgrmmng\C#\dayofweek\obj\Debug\net7.0\refint\dayofweek.dll
+C:\prgrmmng\C#\dayofweek\obj\Debug\net7.0\dayofweek.pdb
+C:\prgrmmng\C#\dayofweek\obj\Debug\net7.0\dayofweek.genruntimeconfig.cache
+C:\prgrmmng\C#\dayofweek\obj\Debug\net7.0\ref\dayofweek.dll

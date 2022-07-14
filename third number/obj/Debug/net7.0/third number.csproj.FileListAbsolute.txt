@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\third number\bin\Debug\net7.0\third number.exe
+C:\prgrmmng\C#\third number\bin\Debug\net7.0\third number.deps.json
+C:\prgrmmng\C#\third number\bin\Debug\net7.0\third number.runtimeconfig.json
+C:\prgrmmng\C#\third number\bin\Debug\net7.0\third number.dll
+C:\prgrmmng\C#\third number\bin\Debug\net7.0\third number.pdb
+C:\prgrmmng\C#\third number\obj\Debug\net7.0\third number.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\third number\obj\Debug\net7.0\third number.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\third number\obj\Debug\net7.0\third number.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\third number\obj\Debug\net7.0\third number.AssemblyInfo.cs
+C:\prgrmmng\C#\third number\obj\Debug\net7.0\third number.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\third number\obj\Debug\net7.0\third number.dll
+C:\prgrmmng\C#\third number\obj\Debug\net7.0\refint\third number.dll
+C:\prgrmmng\C#\third number\obj\Debug\net7.0\third number.pdb
+C:\prgrmmng\C#\third number\obj\Debug\net7.0\third number.genruntimeconfig.cache
+C:\prgrmmng\C#\third number\obj\Debug\net7.0\ref\third number.dll

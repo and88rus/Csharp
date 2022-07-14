@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\pallindrom\bin\Debug\net7.0\pallindrom.exe
+C:\prgrmmng\C#\pallindrom\bin\Debug\net7.0\pallindrom.deps.json
+C:\prgrmmng\C#\pallindrom\bin\Debug\net7.0\pallindrom.runtimeconfig.json
+C:\prgrmmng\C#\pallindrom\bin\Debug\net7.0\pallindrom.dll
+C:\prgrmmng\C#\pallindrom\bin\Debug\net7.0\pallindrom.pdb
+C:\prgrmmng\C#\pallindrom\obj\Debug\net7.0\pallindrom.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\pallindrom\obj\Debug\net7.0\pallindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\pallindrom\obj\Debug\net7.0\pallindrom.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\pallindrom\obj\Debug\net7.0\pallindrom.AssemblyInfo.cs
+C:\prgrmmng\C#\pallindrom\obj\Debug\net7.0\pallindrom.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\pallindrom\obj\Debug\net7.0\pallindrom.dll
+C:\prgrmmng\C#\pallindrom\obj\Debug\net7.0\refint\pallindrom.dll
+C:\prgrmmng\C#\pallindrom\obj\Debug\net7.0\pallindrom.pdb
+C:\prgrmmng\C#\pallindrom\obj\Debug\net7.0\pallindrom.genruntimeconfig.cache
+C:\prgrmmng\C#\pallindrom\obj\Debug\net7.0\ref\pallindrom.dll

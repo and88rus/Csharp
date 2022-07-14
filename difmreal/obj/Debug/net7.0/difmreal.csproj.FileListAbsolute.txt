@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\difmreal\bin\Debug\net7.0\difmreal.exe
+C:\prgrmmng\C#\difmreal\bin\Debug\net7.0\difmreal.deps.json
+C:\prgrmmng\C#\difmreal\bin\Debug\net7.0\difmreal.runtimeconfig.json
+C:\prgrmmng\C#\difmreal\bin\Debug\net7.0\difmreal.dll
+C:\prgrmmng\C#\difmreal\bin\Debug\net7.0\difmreal.pdb
+C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\difmreal.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\difmreal.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\difmreal.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\difmreal.AssemblyInfo.cs
+C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\difmreal.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\difmreal.dll
+C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\refint\difmreal.dll
+C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\difmreal.pdb
+C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\difmreal.genruntimeconfig.cache
+C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\ref\difmreal.dll

@@ -1,0 +1,15 @@
+C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\sumofsymbols.csproj.AssemblyReference.cache
+C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\sumofsymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\sumofsymbols.AssemblyInfoInputs.cache
+C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\sumofsymbols.AssemblyInfo.cs
+C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\sumofsymbols.csproj.CoreCompileInputs.cache
+C:\prgrmmng\C#\sumofsymbols\bin\Debug\net7.0\sumofsymbols.exe
+C:\prgrmmng\C#\sumofsymbols\bin\Debug\net7.0\sumofsymbols.deps.json
+C:\prgrmmng\C#\sumofsymbols\bin\Debug\net7.0\sumofsymbols.runtimeconfig.json
+C:\prgrmmng\C#\sumofsymbols\bin\Debug\net7.0\sumofsymbols.dll
+C:\prgrmmng\C#\sumofsymbols\bin\Debug\net7.0\sumofsymbols.pdb
+C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\sumofsymbols.dll
+C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\refint\sumofsymbols.dll
+C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\sumofsymbols.pdb
+C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\sumofsymbols.genruntimeconfig.cache
+C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\ref\sumofsymbols.dll

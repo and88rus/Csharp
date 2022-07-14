@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\prgrmmng\\C#\\more\\less\\less.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\more\\less\\less.csproj",
       "projectName": "less",
-      "projectPath": "C:\\prgrmmng\\C#\\more\\less\\less.csproj",
+      "projectPath": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\more\\less\\less.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\prgrmmng\\C#\\more\\less\\obj\\",
+      "outputPath": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\more\\less\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

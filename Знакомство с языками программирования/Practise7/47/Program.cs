@@ -1,16 +1,17 @@
-﻿void AxBArray (int a,int b,int x1,int x2)
+﻿void AverageForColumnOfArray (int a,int b,int x1,int x2)
 {
 Random rand = new Random();
-double [,] m = new double [a,b];
+int [,] m = new int [a,b];
+double [] mid = new double [b];
 for (int i=0;i<a;i++)
 {
     for (int j=0;j<b;j++)
     {
-      m[i,j]=Convert.ToDouble(rand.Next(x1,x2)/10.0);
+      m[i,j]=Convert.ToInt32(rand.Next(x1,x2));
     }
 }
 Console.WriteLine(" ");
-Console.WriteLine($"Созданный массив размера {a}x{b} из вещественных чисел следующий:");
+Console.WriteLine($"Созданный массив размера {a}x{b} из целых чисел следующий:");
 Console.WriteLine(" ");
 for (int i=0;i<a;i++)
 {
@@ -20,7 +21,21 @@ for (int i=0;i<a;i++)
     }
     Console.WriteLine();
 }
+Console.WriteLine(" ");
+Console.WriteLine($"Среднее арифмитическое");
+Console.WriteLine(" ");
+for (int i=0;i<b;i++)
+{
+    for (int j=0;j<a;j++)
+    {
+      mid[i]+=m[j,i];
+    };
+  Console.WriteLine (" ");
+  Console.WriteLine ($"для {i+1}-го столбца: ");
+  Console.WriteLine (Math.Abs(mid[i]/a));
+  Console.WriteLine (" ");
 }; 
+}
 Console.WriteLine(" ");
 Console.WriteLine("Введите кол-во строк массива:");
 Console.WriteLine(" ");
@@ -45,4 +60,4 @@ Console.WriteLine(" ");
 int y4 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(" ");
 Console.Clear();
-AxBArray (y1,y2,y3,y4);
+AverageForColumnOfArray (y1,y2,y3,y4);

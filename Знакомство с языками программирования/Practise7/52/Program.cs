@@ -33,7 +33,7 @@ int y2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(" ");
 Console.Clear();
 Console.Clear();
-Console.WriteLine("Ввод диапозона значений (x1,x2), числа в пределах которого делятся на 10.0.");
+Console.WriteLine("Ввод диапозона значений (x1,x2).");
 Console.WriteLine(" ");
 Console.WriteLine("(1) Введите число x1:");
 Console.WriteLine(" ");

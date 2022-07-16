@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\prgrmmng\\C#\\difmreal\\difmreal.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Знакомство с языками программирования\\Practise5\\38\\difmreal.csproj",
       "projectName": "difmreal",
-      "projectPath": "C:\\prgrmmng\\C#\\difmreal\\difmreal.csproj",
+      "projectPath": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Знакомство с языками программирования\\Practise5\\38\\difmreal.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\prgrmmng\\C#\\difmreal\\obj\\",
+      "outputPath": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Знакомство с языками программирования\\Practise5\\38\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

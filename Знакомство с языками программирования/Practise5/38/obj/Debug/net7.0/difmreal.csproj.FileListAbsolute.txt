@@ -13,3 +13,18 @@ C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\refint\difmreal.dll
 C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\difmreal.pdb
 C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\difmreal.genruntimeconfig.cache
 C:\prgrmmng\C#\difmreal\obj\Debug\net7.0\ref\difmreal.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\obj\Debug\net7.0\difmreal.csproj.AssemblyReference.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\obj\Debug\net7.0\difmreal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\obj\Debug\net7.0\difmreal.AssemblyInfoInputs.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\obj\Debug\net7.0\difmreal.AssemblyInfo.cs
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\obj\Debug\net7.0\difmreal.csproj.CoreCompileInputs.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\obj\Debug\net7.0\difmreal.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\obj\Debug\net7.0\refint\difmreal.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\obj\Debug\net7.0\difmreal.pdb
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\bin\Debug\net7.0\difmreal.exe
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\bin\Debug\net7.0\difmreal.deps.json
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\bin\Debug\net7.0\difmreal.runtimeconfig.json
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\bin\Debug\net7.0\difmreal.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\bin\Debug\net7.0\difmreal.pdb
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\obj\Debug\net7.0\difmreal.genruntimeconfig.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise5\38\obj\Debug\net7.0\ref\difmreal.dll

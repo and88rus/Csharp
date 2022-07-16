@@ -51,5 +51,5 @@ Console.WriteLine(" ");
 Console.WriteLine("Введите число x2:");
 Console.WriteLine(" ");
 int y2 = Convert.ToInt32(Console.ReadLine());
-DiffBetweenMaxAndMinElementsOfMassive(n,y1,y2);
+DiffBetweenMaxAndMinElementsOfArray(n,y1,y2);
 Console.WriteLine(" ");

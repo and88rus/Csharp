@@ -26,18 +26,20 @@ Console.Write(" ");
 }; 
 void DescendingStyleOfLineOfAxBArray (int line, int col, int[,] m)
 {
-for (int i=0;i<line;i++)
-{
-    for (int j=0;j<col;j++)
-    {
-    }
-    Console.WriteLine();
-}
+
 };
 void Result (int line, int col, int[,] m) 
 {
-
+  for (int i=0;i<line;i++)
+{
+    for (int j=0;j<col;j++)
+    {
+      Console.Write($"{m[i,j]} ");
+    }
+    Console.WriteLine();
 }
+Console.Write(" ");
+}; 
 Console.WriteLine(" ");
 Console.WriteLine("Введите кол-во строк массива:");
 Console.WriteLine(" ");

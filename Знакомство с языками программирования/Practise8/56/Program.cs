@@ -5,7 +5,7 @@ for (int i=0;i<line;i++)
     for (int j=0;j<col;j++)
     {
       Console.WriteLine ($"Введите элемент {i},{j}:");
-      m[i,j]=m[i,j]=Convert.ToInt32(Console.ReadLine());
+      m[i,j]=Convert.ToInt32(Console.ReadLine());
       Console.Clear();
     }
 }

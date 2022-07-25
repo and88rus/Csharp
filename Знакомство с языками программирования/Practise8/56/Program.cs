@@ -1,51 +1,63 @@
-﻿void AxBArray (int a,int b,int x1,int x2)
+﻿void CreatingOfAxBArray (int line,int col,int[,] m)
 {
-int [,] m = new int[a,b];
-for (int i=0;i<a;i++)
+for (int i=0;i<line;i++)
 {
-    for (int j=0;j<b;j++)
+    for (int j=0;j<col;j++)
     {
-      m[i,j]=m[i,j]=Int.Parse(Console.ReadLine());
+      Console.WriteLine ($"Введите элемент {i},{j}:");
+      m[i,j]=m[i,j]=Convert.ToInt32(Console.ReadLine());
+      Console.Clear();
     }
 }
-Console.WriteLine(" ");
-Console.WriteLine($"Созданный массив размера {a}x{b} из вещественных чисел следующий:");
-Console.WriteLine(" ");
-for (int i=0;i<a;i++)
+}
+void OutPutOfAxBArray (int line,int col,int[,] m)
 {
-    for (int j=0;j<b;j++)
+Console.WriteLine(" ");
+Console.WriteLine($"Созданный массив размера {line}x{col} чисел следующий:");
+Console.WriteLine(" ");
+for (int i=0;i<line;i++)
+{
+    for (int j=0;j<col;j++)
     {
       Console.Write($"{m[i,j]} ");
     }
     Console.WriteLine();
 }
-}; 
-void LeastSumOfLineOfAxBArray ()
+Console.Write(" ");
+}
+int LeastSumOfLineOfAxBArray (int line, int col, int[,]m, int[]sum)
 {
-
-};
+  int min_sum=sum[0];
+  int index=0;
+for (int i=0;i<line;i++)
+{
+    for (int j=0;j<col;j++)
+    {
+      sum[i]+=m[i,j];
+    }
+     if (sum[i]<=sum[0])
+    {
+      min_sum=sum[i];
+      index=i;
+    };
+}
+return index;
+} 
 Console.WriteLine(" ");
 Console.WriteLine("Введите кол-во строк массива:");
 Console.WriteLine(" ");
-int y1 = Convert.ToInt32(Console.ReadLine());
+int line = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(" ");
 Console.Clear();
 Console.WriteLine("Введите кол-во столбцов массива:");
 Console.WriteLine(" ");
-int y2 = Convert.ToInt32(Console.ReadLine());
+int col = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(" ");
 Console.Clear();
-Console.Clear();
-Console.WriteLine("Ввод диапозона значений (x1,x2).");
+int [,] m = new int [line,col];
+int [] sum = new int[line];
+CreatingOfAxBArray (line,col,m);
+OutPutOfAxBArray (line ,col, m);
+int lownumber = LeastSumOfLineOfAxBArray (line,col,m,sum);
 Console.WriteLine(" ");
-Console.WriteLine("(1) Введите число x1:");
-Console.WriteLine(" ");
-int y3 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(" ");
-Console.Clear();
-Console.WriteLine("(2) Введите число x2:");
-Console.WriteLine(" ");
-int y4 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(" ");
-Console.Clear();
-AxBArray (y1,y2,y3,y4);
+Console.WriteLine($"Для вышеописанного массива номер строки с наименьшей суммой элементов следующий: {lownumber+1}.");

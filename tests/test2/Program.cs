@@ -25,3 +25,4 @@ for (int i=0;i<b;i++)
 {
 Console.Write($"{m2[i]} ");
 }
+

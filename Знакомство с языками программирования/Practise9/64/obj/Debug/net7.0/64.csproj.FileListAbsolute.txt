@@ -1,0 +1,15 @@
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\bin\Debug\net7.0\64.exe
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\bin\Debug\net7.0\64.deps.json
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\bin\Debug\net7.0\64.runtimeconfig.json
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\bin\Debug\net7.0\64.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\bin\Debug\net7.0\64.pdb
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\obj\Debug\net7.0\64.csproj.AssemblyReference.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\obj\Debug\net7.0\64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\obj\Debug\net7.0\64.AssemblyInfoInputs.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\obj\Debug\net7.0\64.AssemblyInfo.cs
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\obj\Debug\net7.0\64.csproj.CoreCompileInputs.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\obj\Debug\net7.0\64.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\obj\Debug\net7.0\refint\64.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\obj\Debug\net7.0\64.pdb
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\obj\Debug\net7.0\64.genruntimeconfig.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise9\64\obj\Debug\net7.0\ref\64.dll

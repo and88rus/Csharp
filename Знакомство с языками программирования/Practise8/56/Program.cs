@@ -10,6 +10,7 @@ for (int i=0;i<line;i++)
     }
 }
 }
+
 void OutPutOfAxBArray (int line,int col,int[,] m)
 {
 Console.WriteLine(" ");
@@ -25,6 +26,7 @@ for (int i=0;i<line;i++)
 }
 Console.Write(" ");
 }
+
 int LeastSumOfLineOfAxBArray (int line, int col, int[,]m, int[]sum)
 {
   int min_sum=sum[0];
@@ -43,17 +45,20 @@ for (int i=0;i<line;i++)
 }
 return index;
 } 
+
 Console.WriteLine(" ");
 Console.WriteLine("Введите кол-во строк массива:");
 Console.WriteLine(" ");
 int line = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(" ");
 Console.Clear();
+
 Console.WriteLine("Введите кол-во столбцов массива:");
 Console.WriteLine(" ");
 int col = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(" ");
 Console.Clear();
+
 int [,] m = new int [line,col];
 int [] sum = new int[line];
 CreatingOfAxBArray (line,col,m);

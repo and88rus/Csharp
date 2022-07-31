@@ -1,15 +1,17 @@
-﻿static int Akkerman (int m,int n) 
+﻿static ulong Akkerman(ulong m,ulong n) 
 {
-if (m==0) return n+1; else
-if ((m>0)&&(n==0)) return Akkerman (m-1,n);
-if ((m>0)&&(n>0)) return Akkerman (m-1,Akkerman(m,n-1));
-return 0;
+Console.WriteLine();
+if (m==0) return (n+1); 
+else 
+if (n==0) return Akkerman (m-1,n);
+else 
+return Akkerman(m-1,Akkerman(m,n-1));
 }
 Console.WriteLine("Введите число M:");
-int m=Convert.ToInt32(Console.ReadLine());
+ulong m=Convert.ToUInt64(Console.ReadLine());
 Console.Clear();
 Console.WriteLine("Введите число N:");
-int n=Convert.ToInt32(Console.ReadLine());
+ulong n=Convert.ToUInt64(Console.ReadLine());
 Console.Clear();
-int A = Akkerman(m,n);
+ulong A = Akkerman(m,n);
 Console.WriteLine ($"A(m,n)={A}");

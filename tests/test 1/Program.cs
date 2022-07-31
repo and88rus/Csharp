@@ -1,27 +1,45 @@
-﻿int b=Convert.ToInt32(Console.ReadLine());
-int [] m2=new int[b];
-    for (int i=0;i<b;i++) 
+﻿int a=Convert.ToInt32(Console.ReadLine());
+int b=Convert.ToInt32(Console.ReadLine());
+int [,] m=new int[a,b];
+    for (int i=0;i<a;i++) 
 {
- m2[i]=Convert.ToInt32(Console.ReadLine());
+  for (int j=0;j<b;j++)
+  {  Console.Write ($"Введите индекс {i},{j}-го элемента:");
+      m[i,j]=Convert.ToInt32(Console.ReadLine());
+  }
+  Console.WriteLine (" ");
 }
-for (int i=0;i<b;i++)
+for (int i=0;i<a;i++)
 {
-Console.Write($"{m2[i]} ");
+ for (int j=0;j<b;j++)
+  { 
+       Console.Write($"{m[i,j]} "); 
+  }
+  Console.WriteLine (" ");
 }
 Console.WriteLine (" ");
-     for (int t=0;t<b-1;t++)
-      {
-        for (int l=t+1; l<b; l++)
-        {
-         if (m2[t]>m2[l])
-         {
-            int temp=m2[t];
-            m2[t]=m2[l];
-            m2[l]=temp;
-         }
-        }
-      };
-for (int i=0;i<b;i++)
+for (int i=0; i<a;i++)
 {
-Console.Write($"{m2[i]} ");
+  for (int t=1;t<b;t++)
+   {
+ for (int r=0;r<b-t;r++)
+ {
+  if 
+  (m[i,r]>m[i,r+1])
+     {
+      int temp=m[i,r];
+      m[i,r]=m[i,r+1];
+      m[i,r+1]=temp;
+     }
+ }
+}
+ }
+Console.WriteLine (" ");
+for (int i=0;i<a;i++)
+{
+ for (int j=0;j<b;j++)
+  { 
+       Console.Write($"{m[i,j]} "); 
+  }
+  Console.WriteLine (" ");
 }

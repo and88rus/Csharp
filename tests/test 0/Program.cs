@@ -3,6 +3,11 @@ int a=Convert.ToInt32(Console.ReadLine());
 int b=Convert.ToInt32(Console.ReadLine());
 int [,] m1 = new int[a,b];
 int [] m2 = new int [b];
+
+Console.WriteLine(" ");
+Console.WriteLine(" ... ");
+Console.WriteLine(" ");
+
 for (int i=0;i<a;i++) 
 {
 for (int j=0;j<b;j++) 
@@ -11,6 +16,11 @@ for (int j=0;j<b;j++)
 }
 }
 Console.WriteLine (" ");
+
+Console.WriteLine(" ");
+Console.WriteLine(" ... ");
+Console.WriteLine(" ");
+
 for (int i=0;i<a;i++) 
 {
 for (int j=0;j<b;j++) 
@@ -20,6 +30,10 @@ for (int j=0;j<b;j++)
 Console.WriteLine();
 }
 Console.WriteLine (" "); 
+
+Console.WriteLine(" ");
+Console.WriteLine(" ... ");
+Console.WriteLine(" ");
 
 for (int i=0;i<b; i++)
 {
@@ -40,6 +54,10 @@ for (int i=0;i<b; i++)
       };
   }
 }
+
+Console.WriteLine(" ");
+Console.WriteLine(" ... ");
+Console.WriteLine(" ");
 
 Console.WriteLine (" ");
 for (int i=0;i<a;i++)

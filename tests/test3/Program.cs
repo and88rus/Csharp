@@ -15,28 +15,10 @@ for (int j=0;j<col_of_m;j++)
  { 
   for (int t=0; t<page_of_m;t++)
   {
-  Console.Write ($"Введите {i},{j},{t}-ый элемент:");
 m[i,j,t]=rnd.Next(9,100);
   }
  }
 Console.WriteLine (" ");
-}
-
-Console.WriteLine(" ");
-Console.WriteLine(" ... ");
-Console.WriteLine(" ");
-
-for (int i=0;i<line_of_m;i++)
-{
- for (int j=0;j<col_of_m;j++)
-  { 
-   for (int t=0; t<page_of_m; t++)
-   {
-       Console.Write($" {m[i,j,t]}{(i,j,t)} "); 
-   }
-    Console.WriteLine (" ");
-  }
-  Console.WriteLine (" ");
 }
 
 int [,,] mcopy = new int [line_of_m,col_of_m,page_of_m];
@@ -52,27 +34,6 @@ mcopy[i,j,t]=m[i,j,t];
  }
 Console.WriteLine (" ");
 }
-
-Console.WriteLine(" ");
-Console.WriteLine(" ... ");
-Console.WriteLine(" ");
-
-for (int i=0;i<line_of_m;i++)
-{
- for (int j=0;j<col_of_m;j++)
-  { 
-   for (int t=0; t<page_of_m; t++)
-   {
-       Console.Write($" {mcopy[i,j,t]}{(i,j,t)} "); 
-   }
-    Console.WriteLine (" ");
-  }
-  Console.WriteLine (" ");
-}
-
-Console.WriteLine(" ");
-Console.WriteLine(" ... ");
-Console.WriteLine(" ");
 
 int [,,] mcout = new int [line_of_m,col_of_m,page_of_m];
 
@@ -96,15 +57,10 @@ for (int j=0;j<col_of_m;j++)
           }
         }
        }
-      Console.WriteLine (mcout[i,j,t]);
   }
  }
 Console.WriteLine (" ");
 }
-
-Console.WriteLine(" ");
-Console.WriteLine(" ... ");
-Console.WriteLine(" ");
 
 for (int i=0;i<line_of_m;i++)
 {

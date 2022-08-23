@@ -1,64 +1,67 @@
-﻿int line_of_m = Convert.ToInt32(Console.ReadLine());
-
-int col_of_m = Convert.ToInt32(Console.ReadLine());
-
-int[,] m = new int[line_of_m, col_of_m];
-
-for (int i = 0; i <= 0; i++)
- {
-  for (int j = 0; j < 3; j++)
-    {
-     {
-     m[i, j] = Convert.ToInt32(Console.ReadLine());
-     }
-    }
-}
-
-for (int i=0; i<3; i++)
+﻿void DefinitionOfStringArray(int line, string []strings)
 {
-    for (int j=3; j<=3; j++)
-    {
-       m[i, j] = Convert.ToInt32(Console.ReadLine());
-    }
-}
-
-for (int i=3; i<=3; i++)
+for (int i=0;i<line;i++) 
 {
-    for (int j=3; j>0; j--)
-    {
-       m[i, j] = Convert.ToInt32(Console.ReadLine());
-    }
+ Console.Write ($"Введите элемент под номером {i}:");
+strings[i]=Console.ReadLine();
+Console.Clear();
+}
 }
 
-for (int i=3; i>=1;i--)
+void OutPutOfStringArray(int line, string [] strings)
 {
- for (int j=0; j>=0; j--)
- {
-   m[i, j] = Convert.ToInt32(Console.ReadLine());
- }
-}
-
-for (int i=1; i>=1;i--)
-{
- for (int j=1; j<3; j++)
- {
-   m[i, j] = Convert.ToInt32(Console.ReadLine());
- }
-}
-
-for (int i=2; i>=2;i--)
-{
- for (int j=2; j>0; j--)
- {
-   m[i, j] = Convert.ToInt32(Console.ReadLine());
- }
-}
-
-for (int i = 0; i < line_of_m; i++)
-   {
-    for (int j = 0; j < col_of_m; j++)
-    {
-    Console.Write($" {m[i, j]} ");
-    }
-    Console.WriteLine(" ");
+  Console.WriteLine ("Вывод введенного массива:");
+  Console.WriteLine (" ");
+  for  ( int  j = 0 ; j < line; j ++ )
+  { 
+        Console. WriteLine ( $" { strings[ j ]} " ); 
+       Console . WriteLine ( " " ); 
   }
+}
+
+int DefinitionOfQuantityOfElementsOfStringArrayWhichSizeIsMoreOrEqualThree(int line, string [] strings)
+{
+ int q=0;
+ for (int i=0; i<line;i++)
+ {
+   if (strings[i].Length<=3)
+   {
+    q=q+1;
+   }
+ }
+ return q;
+}
+
+void DefinitionAndOutPutOfResultStrings (int line, string [] strings)
+{
+  int q=DefinitionOfQuantityOfElementsOfStringArrayWhichSizeIsMoreOrEqualThree(line,strings);
+  string [] ResultStrings;
+  ResultStrings = new string [q];
+  int i=0;
+ for (int j=0;j<line;j++)
+ {
+   if (strings[j].Length<=3)
+   {
+    ResultStrings[i]=strings[j];
+    i++;
+   }
+ }
+ Console.WriteLine ("Результат:");
+  Console.WriteLine (" ");
+ for  ( int  j = 0 ; j < q; j ++ )
+  { 
+        Console. WriteLine ( $" { ResultStrings[ j ]} " ); 
+       Console . WriteLine ( " " ); 
+  }
+}
+
+Console.WriteLine ("Введите кол-во элементов массива:");
+int line = Convert . ToInt32 ( Console . ReadLine ());
+Console.Clear();
+
+string [] strings;
+strings = new string [line];
+
+DefinitionOfStringArray(line, strings);
+OutPutOfStringArray(line, strings);
+DefinitionAndOutPutOfResultStrings (line, strings);

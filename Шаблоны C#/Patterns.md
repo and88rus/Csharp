@@ -6,7 +6,7 @@ Console . WriteLine  ( $"... " );
 
 ВВОД ЦЕЛОГО ЧИСЛА A
 
-int  a  = Convert . ToInt32 ( Console . ReadLine ());
+int  a  = Convert.ToInt32 (Console.ReadLine ());
 
 ОПРЕДЕЛЕНИЕ ДВУМЕРНОГО МАССИВА РАЗМЕРА A СТРОК на B СТОЛБЦОВ
 
@@ -66,4 +66,4 @@ CONSOLE.CLEAR()
 
 Random  rnd  = new Random ();
 
-m [ i , j , t ] = rnd . Next ( 9 , 100 );
+m [ i , j , t ] = rnd.Next ( 9 , 100 );

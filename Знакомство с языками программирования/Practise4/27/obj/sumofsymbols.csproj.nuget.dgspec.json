@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\prgrmmng\\C#\\sumofsymbols\\sumofsymbols.csproj": {}
+    "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Знакомство с языками программирования\\Practise4\\27\\sumofsymbols.csproj": {}
   },
   "projects": {
-    "C:\\prgrmmng\\C#\\sumofsymbols\\sumofsymbols.csproj": {
+    "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Знакомство с языками программирования\\Practise4\\27\\sumofsymbols.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\prgrmmng\\C#\\sumofsymbols\\sumofsymbols.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Знакомство с языками программирования\\Practise4\\27\\sumofsymbols.csproj",
         "projectName": "sumofsymbols",
-        "projectPath": "C:\\prgrmmng\\C#\\sumofsymbols\\sumofsymbols.csproj",
+        "projectPath": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Знакомство с языками программирования\\Practise4\\27\\sumofsymbols.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\prgrmmng\\C#\\sumofsymbols\\obj\\",
+        "outputPath": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Знакомство с языками программирования\\Practise4\\27\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

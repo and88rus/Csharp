@@ -13,3 +13,18 @@ C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\refint\allevennumbers.dll
 C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\allevennumbers.pdb
 C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\allevennumbers.genruntimeconfig.cache
 C:\prgrmmng\C#\allevennumbers\obj\Debug\net7.0\ref\allevennumbers.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\bin\Debug\net7.0\allevennumbers.exe
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\bin\Debug\net7.0\allevennumbers.deps.json
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\bin\Debug\net7.0\allevennumbers.runtimeconfig.json
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\bin\Debug\net7.0\allevennumbers.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\bin\Debug\net7.0\allevennumbers.pdb
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\obj\Debug\net7.0\allevennumbers.csproj.AssemblyReference.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\obj\Debug\net7.0\allevennumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\obj\Debug\net7.0\allevennumbers.AssemblyInfoInputs.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\obj\Debug\net7.0\allevennumbers.AssemblyInfo.cs
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\obj\Debug\net7.0\allevennumbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\obj\Debug\net7.0\allevennumbers.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\obj\Debug\net7.0\refint\allevennumbers.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\obj\Debug\net7.0\allevennumbers.pdb
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\obj\Debug\net7.0\allevennumbers.genruntimeconfig.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise1\8\obj\Debug\net7.0\ref\allevennumbers.dll

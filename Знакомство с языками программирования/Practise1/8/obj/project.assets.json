@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\prgrmmng\\C#\\allevennumbers\\allevennumbers.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Знакомство с языками программирования\\Practise1\\8\\allevennumbers.csproj",
       "projectName": "allevennumbers",
-      "projectPath": "C:\\prgrmmng\\C#\\allevennumbers\\allevennumbers.csproj",
+      "projectPath": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Знакомство с языками программирования\\Practise1\\8\\allevennumbers.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\prgrmmng\\C#\\allevennumbers\\obj\\",
+      "outputPath": "C:\\Users\\PC\\SynologyDrive\\prgrmmng\\VS Code\\C#\\Знакомство с языками программирования\\Practise1\\8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

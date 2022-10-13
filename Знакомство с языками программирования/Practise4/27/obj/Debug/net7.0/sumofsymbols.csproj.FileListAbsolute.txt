@@ -13,3 +13,18 @@ C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\refint\sumofsymbols.dll
 C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\sumofsymbols.pdb
 C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\sumofsymbols.genruntimeconfig.cache
 C:\prgrmmng\C#\sumofsymbols\obj\Debug\net7.0\ref\sumofsymbols.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\bin\Debug\net7.0\sumofsymbols.exe
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\bin\Debug\net7.0\sumofsymbols.deps.json
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\bin\Debug\net7.0\sumofsymbols.runtimeconfig.json
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\bin\Debug\net7.0\sumofsymbols.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\bin\Debug\net7.0\sumofsymbols.pdb
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\obj\Debug\net7.0\sumofsymbols.csproj.AssemblyReference.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\obj\Debug\net7.0\sumofsymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\obj\Debug\net7.0\sumofsymbols.AssemblyInfoInputs.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\obj\Debug\net7.0\sumofsymbols.AssemblyInfo.cs
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\obj\Debug\net7.0\sumofsymbols.csproj.CoreCompileInputs.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\obj\Debug\net7.0\sumofsymbols.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\obj\Debug\net7.0\refint\sumofsymbols.dll
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\obj\Debug\net7.0\sumofsymbols.pdb
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\obj\Debug\net7.0\sumofsymbols.genruntimeconfig.cache
+C:\Users\PC\SynologyDrive\prgrmmng\VS Code\C#\Знакомство с языками программирования\Practise4\27\obj\Debug\net7.0\ref\sumofsymbols.dll

@@ -28,5 +28,6 @@ Console.WriteLine("Введите число N:");
 Console.WriteLine(" ");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine (" ");
+Console.WriteLine(n);
 SumOfSymb(n);
 Console.WriteLine(" ");
